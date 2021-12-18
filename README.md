@@ -1,7 +1,7 @@
   
 ### 👋 Hi, I’m Iris   
 
-I do stuff
+I do stuff - they/them
 - Self taught in Python, C#, Java/Kotlin
 - Want to learn Go (eventually), Typescript/Javascript, C++ (maybe, but not in a rush lmao)
 
