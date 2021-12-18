@@ -7,4 +7,4 @@ I do stuff - they/them
 
 You can reach me by not reaching me. Lol
 
-![My Twitter](https://img.shields.io/twitter/follow/iryisal?color=aa7dc9&label=twitter&logo=twitter&style=for-the-badge)
+![My Twitter](https://img.shields.io/twitter/follow/iryisal?color=aa7dc9&label=twitter&logo=twitter&style=for-the-badge?link=https://twitter.com/iryisal)
