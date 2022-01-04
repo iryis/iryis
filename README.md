@@ -1,7 +1,7 @@
   
 ### 👋 Hi, I’m Iris   
 
-I do stuff - they/them
+I do stuff - she/he(r)
 - Self taught in Python, C#, Java/Kotlin
 - Want to learn Go (eventually), Typescript/Javascript, C++ (maybe, but not in a rush lmao)
 
