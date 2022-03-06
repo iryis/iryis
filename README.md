@@ -7,6 +7,6 @@ I do stuff - she/they
 
 You can reach me by not reaching me. Lol
 
-<a href="https://twitter.com/iryisal">
+<a href="https://twitter.com/iryisi">
 <img alt="Twitter btw" src="https://img.shields.io/twitter/follow/iryisal?color=aa7dc9&label=Twitter&logo=twitter&style=for-the-badge">
 </a>
